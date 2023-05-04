@@ -1,0 +1,974 @@
+{
+  "ship.ship": {
+    "category": "master",
+    "sounds": [
+      "ship/ship"
+    ]
+  },
+  "ship.sea": {
+    "category": "master",
+    "sounds": [
+      "ship/sea"
+    ]
+  },
+  "skill.portal": {
+    "category": "master",
+    "sounds": [
+      "skills/portal"
+    ]
+  },
+  "ui.coin": {
+    "category": "master",
+    "sounds": [
+      "ui/coin"
+    ]
+  },
+  "skill.rmqaktkf1": {
+    "category": "master",
+    "sounds": [
+      "skills/armqaktkf1",
+      "skills/armqaktkf2",
+      "skills/armqaktkf3"
+    ]
+  },
+  "skill.gufakrjaqjq1": {
+    "category": "master",
+    "sounds": [
+      "skills/a",
+      "skills/b"
+    ]
+  },
+  "skill.gufakrjaqjq2": {
+    "category": "master",
+    "sounds": [
+      "skills/c"
+    ]
+  },
+  "skill.dkagodtnf": {
+    "category": "master",
+    "sounds": [
+      "skills/dkagodtnf"
+    ]
+  },
+  "skill.tkacjsrmr": {
+    "category": "master",
+    "sounds": [
+      "skills/tkacjsrmr1",
+      "skills/tkacjsrmr2",
+      "skills/tkacjsrmr3"
+    ]
+  },
+  "skill.rmqaktkf2": {
+    "category": "master",
+    "sounds": [
+      "skills/rmqaktkf2"
+    ]
+  },
+  "skill.dufghkwn1": {
+    "category": "master",
+    "sounds": [
+      "skills/dufghkwn1",
+      "skills/dufghkwn2",
+      "skills/dufghkwn3"
+    ]
+  },
+  "skill.dufghkwn2": {
+    "category": "master",
+    "sounds": [
+      "skills/a_dufghkwn1",
+      "skills/a_dufghkwn2",
+      "skills/a_dufghkwn3"
+    ]
+  },
+  "skill.skrfhl": {
+    "category": "master",
+    "sounds": [
+      "skills/skrfhl1",
+      "skills/skrfhl2",
+      "skills/skrfhl3"
+    ]
+  },
+  "skill.ghlqhrwls": {
+    "category": "master",
+    "sounds": [
+      "skills/ghlqhrwls"
+    ]
+  },
+  "skill.dufghkwldhr": {
+    "category": "master",
+    "sounds": [
+      "skills/dufghkwldhr"
+    ]
+  },
+  "skill.rmrehranrur": {
+    "category": "master",
+    "sounds": [
+      "skills/rmrehranrur"
+    ]
+  },
+  "skill.rjqthrtkfxn": {
+    "category": "master",
+    "sounds": [
+      "skills/tnflrja"
+    ]
+  },
+  "skill.ghlrmrtkfxn": {
+    "category": "master",
+    "sounds": [
+      "skills/ghlrmrtkfxn"
+    ]
+  },
+  "skill.wjrdnjfgufan1": {
+    "category": "master",
+    "sounds": [
+      "skills/wjrdnjfgufan1"
+    ]
+  },
+  "skill.wjrdnjfgufan2": {
+    "category": "master",
+    "sounds": [
+      "skills/wjrdnjfgufan2"
+    ]
+  },
+  "skill.tkaaowlsghk": {
+    "category": "master",
+    "sounds": [
+      "skills/tkaaowlsghk1",
+      "skills/tkaaowlsghk2",
+      "skills/tkaaowlsghk3"
+    ]
+  },
+  "skill.dlgudghksdnl": {
+    "category": "master",
+    "sounds": [
+      "skills/dlgudghksdnl"
+    ]
+  },
+  "skill.rurfhltjdwls1": {
+    "category": "master",
+    "sounds": [
+      "skills/rurfhltjdwls1"
+    ]
+  },
+  "skill.rurfhltjdwls2": {
+    "category": "master",
+    "sounds": [
+      "skills/rurfhltjdwls2"
+    ]
+  },
+  "skill.guqtjdakrhd": {
+    "category": "master",
+    "sounds": [
+      "skills/guqtjdakrhd"
+    ]
+  },
+  "skill.wldnjsvhrur": {
+    "category": "master",
+    "sounds": [
+      "skills/wldnjsvhrur"
+    ]
+  },
+  "skill.levelup": {
+    "category": "master",
+    "sounds": [
+      "skills/levelup"
+    ]
+  },
+  "skill.qkffldjsxm": {
+    "category": "master",
+    "sounds": [
+      "skills/qkffldjsxm"
+    ]
+  },
+  "skill.ejqmftmxld": {
+    "category": "master",
+    "sounds": [
+      "skills/ejqmftmxld"
+    ]
+  },
+  "skill.heal": {
+    "category": "master",
+    "sounds": [
+      "skills/heal"
+    ]
+  },
+  "skill.dkfakxmdmlrja": {
+    "category": "master",
+    "sounds": [
+      "skills/dkfakxmdmlrja"
+    ]
+  },
+  "skill.xhspdleh": {
+    "category": "master",
+    "sounds": [
+      "skills/deep_wind"
+    ]
+  },
+  "skill.dkfmemqkfm": {
+    "category": "master",
+    "sounds": [
+      "skills/dkfmemqkfm"
+    ]
+  },
+  "skill.wnajrwlf": {
+    "category": "master",
+    "sounds": [
+      "skills/wnajrwlf1",
+      "skills/wnajrwlf2"
+    ]
+  },
+  "skill.tmffotnl": {
+    "category": "master",
+    "sounds": [
+      "skills/tmffotnl"
+    ]
+  },
+  "skill.xmflvmftmxld": {
+    "category": "master",
+    "sounds": [
+      "skills/xmflvmftmxld"
+    ]
+  },
+  "skill.qmffjemtmxha": {
+    "category": "master",
+    "sounds": [
+      "skills/qmffjemtmxha"
+    ]
+  },
+  "skill.dkdldjstnlfem": {
+    "category": "master",
+    "sounds": [
+      "skills/dkdldjstnlfem"
+    ]
+  },
+  "skill.zkvhvpfh": {
+    "category": "master",
+    "sounds": [
+      "skills/zkvhvpfh"
+    ]
+  },
+  "skill.qjtmxjtmffotnl": {
+    "category": "master",
+    "sounds": [
+      "skills/qjtmxjtmffotnl"
+    ]
+  },
+  "skill.qnfrnfdmldmlwl": {
+    "category": "master",
+    "sounds": [
+      "skills/qnfrnfdmldmlwl"
+    ]
+  },
+  "skill.epalwlqntmxj": {
+    "category": "master",
+    "sounds": [
+      "skills/epalwlqntmxj"
+    ]
+  },
+  "skill.tyzmdnpdlqm": {
+    "category": "master",
+    "sounds": [
+      "skills/tyzmdnpdlqm"
+    ]
+  },
+  "mob.whale_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/whale_idle1",
+	  "mob/whale_idle2",
+	  "mob/whale_idle3"
+    ]
+  },
+  "skill.zhdjqmffotmxm": {
+    "category": "master",
+    "sounds": [
+      "skills/zhdjqmffotmxm",
+      "skills/zhdjqmffotmxm1"
+    ]
+  },
+  "skill.vkdntmxm": {
+    "category": "master",
+    "sounds": [
+      "skills/vkdntmxm"
+    ]
+  },
+  "skill.dkzmtmxld": {
+    "category": "master",
+    "sounds": [
+      "skills/dkzmtmxld"
+    ]
+  },
+  "skill.fkdlxmsldqhf1": {
+    "category": "master",
+    "sounds": [
+      "skills/fkdlxmsldqhf1"
+    ]
+  },
+  "skill.fkdlxmsldqhf2": {
+    "category": "master",
+    "sounds": [
+      "skills/fkdlxmsldqhf2"
+    ]
+  },
+  "skill.tjsqjtmxj": {
+    "category": "master",
+    "sounds": [
+      "skills/tjsqjtmxj"
+    ]
+  },
+  "skill.ekzmqhf1": {
+    "category": "master",
+    "sounds": [
+      "skills/ekzmqhf1"
+    ]
+  },
+  "skill.ekzmqhf2": {
+    "category": "master",
+    "sounds": [
+      "skills/ekzmqhf2"
+    ]
+  },
+  "skill.epahswmcpdls1": {
+    "category": "master",
+    "sounds": [
+      "skills/epahswmcpdls1"
+    ]
+  },
+  "skill.epahswmcpdls2": {
+    "category": "master",
+    "sounds": [
+      "skills/epahswmcpdls2",
+      "skills/eptmqhf2"
+    ]
+  },
+  "skill.dnlzmsltm": {
+    "category": "master",
+    "sounds": [
+      "skills/dnlzmsltm"
+    ]
+  },
+  "skill.epahswmcpdls": {
+    "category": "master",
+    "sounds": [
+      "skills/epahswmcpdls"
+    ]
+  },
+  "skill.djselqjvm": {
+    "category": "master",
+    "sounds": [
+      "skills/djselqjvm"
+    ]
+  },
+  "skill.qmffptld1": {
+    "category": "master",
+    "sounds": [
+      "skills/qmffptld1"
+    ]
+  },
+  "skill.qmffptld2": {
+    "category": "master",
+    "sounds": [
+      "skills/qmffptld2"
+    ]
+  },
+  "skill.todcbdjfl": {
+    "category": "master",
+    "sounds": [
+      "skills/todcbdjfl"
+    ]
+  },
+  "skill.ghfflfpdlwm": {
+    "category": "master",
+    "sounds": [
+      "skills/ghfflfpdlwm"
+    ]
+  },
+  "skill.fpwjfprtus": {
+    "category": "master",
+    "sounds": [
+      "skills/fpwjfprtus"
+    ]
+  },
+  "skill.vpdlxkfzlf": {
+    "category": "master",
+    "sounds": [
+      "skills/vpdlxkfzlf"
+    ]
+  },
+  "skill.tnpehdnqmffpdlwm": {
+    "category": "master",
+    "sounds": [
+      "skills/tnpehdnqmffpdlwm"
+    ]
+  },
+  "skill.vosxjaeostld": {
+    "category": "master",
+    "sounds": [
+      "skills/vosxjaeostld"
+    ]
+  },
+  "skill.gpdltmxm": {
+    "category": "master",
+    "sounds": [
+      "skills/gpdltmxm"
+    ]
+  },
+  "skill.eptmakzm": {
+    "category": "master",
+    "sounds": [
+      "skills/eptmakzm2",
+      "skills/eptmakzm3"
+    ]
+  },
+  "skill.eptmakzm1": {
+    "category": "master",
+    "sounds": [
+      "skills/eptmakzm1"
+    ]
+  },
+  "skill.djtotls": {
+    "category": "master",
+    "sounds": [
+      "skills/djtotls"
+    ]
+  },
+  "skill.qmffjemfhdj1": {
+    "category": "master",
+    "sounds": [
+      "skills/qmffjemfhdj1"
+    ]
+  },
+  "skill.qmffjemfhdj2": {
+    "category": "master",
+    "sounds": [
+      "skills/qmffjemfhdj2"
+    ]
+  },
+  "skill.rhkdvhrghk": {
+    "category": "master",
+    "sounds": [
+      "skills/rhkdvhrghk"
+    ]
+  },
+  "skill.zlftnpehdn": {
+    "category": "master",
+    "sounds": [
+      "skills/zlftnpehdn"
+    ]
+  },
+  "skill.dirwjavhckr": {
+    "category": "master",
+    "sounds": [
+      "skills/dirwjavhckr"
+    ]
+  },
+  "skill.tnpehdnwkqpffls1": {
+    "category": "master",
+    "sounds": [
+      "skills/tnpehdnwkqoffls"
+    ]
+  },
+  "skill.tnpehdnwkqpffls2": {
+    "category": "master",
+    "sounds": [
+      "skills/tnpehdnwkqpffls2"
+    ]
+  },
+  "skill.vhdlwms": {
+    "category": "master",
+    "sounds": [
+      "skills/vhdlwms"
+    ]
+  },
+  "skill.dlsvpsxmfl": {
+    "category": "master",
+    "sounds": [
+      "skills/dlsvpsxmfl1",
+      "skills/dlsvpsxmfl2",
+      "skills/dlsvpsxmfl3"
+    ]
+  },
+  "skill.wldnjstkrur": {
+    "category": "master",
+    "sounds": [
+      "skills/wldnjstkrur1",
+      "skills/wldnjstkrur2",
+      "skills/wldnjstkrur3",
+      "skills/wldnjstkrur4"
+    ]
+  },
+  "skill.ejqmftit": {
+    "category": "master",
+    "sounds": [
+      "skills/ejqmftit"
+    ]
+  },
+  "skill.rmfpspdlem1": {
+    "category": "master",
+    "sounds": [
+      "skills/rmfpspdlem1"
+    ]
+  },
+  "skill.rmfpspdlem2": {
+    "category": "master",
+    "sounds": [
+      "skills/rmfpspdlem2"
+    ]
+  },
+  "skill.wpdkqtkrur": {
+    "category": "master",
+    "sounds": [
+      "skills/wpdkqtkrur"
+    ]
+  },
+  "skill.ghzmdkdl": {
+    "category": "master",
+    "sounds": [
+      "skills/ghzmdkdl"
+    ]
+  },
+  "skill.dlrtmvmffhwjstit1": {
+    "category": "master",
+    "sounds": [
+      "skills/dlrtmvmffhwjstit1"
+    ]
+  },
+  "skill.dlrtmvmffhwjstit2": {
+    "category": "master",
+    "sounds": [
+      "skills/dlrtmvmffhwjstit2"
+    ]
+  },
+  "skill.vldkfdkdl": {
+    "category": "master",
+    "sounds": [
+      "skills/vldkfdkdl"
+    ]
+  },
+  "skill.fhrdhs": {
+    "category": "master",
+    "sounds": [
+      "skills/fhrdhs"
+    ]
+  },
+  "skill.fpemwhs1": {
+    "category": "master",
+    "sounds": [
+      "skills/fpemwhs1"
+    ]
+  },
+  "skill.dnlsemwjavm": {
+    "category": "master",
+    "sounds": [
+      "skills/dnlsemwjavm"
+    ]
+  },
+  "skill.fpemwhs2": {
+    "category": "master",
+    "sounds": [
+      "skills/vhrqkf1",
+      "skills/vhrqkf2",
+      "skills/vhrqkf3"
+    ]
+  },
+  "skill.dlsvlslxmtit": {
+    "category": "master",
+    "sounds": [
+      "skills/dlsvlslxmtit"
+    ]
+  },
+  "skill.fpemwhs3": {
+    "category": "master",
+    "sounds": [
+      "skills/fpemwhs3"
+    ]
+  },
+  "skill.tmskdlvld1": {
+    "category": "master",
+    "sounds": [
+      "skills/tmskdlvld1"
+    ]
+  },
+  "skill.tmskdlvld2": {
+    "category": "master",
+    "sounds": [
+      "skills/tmskdlvld2"
+    ]
+  },
+  "mob.elechio_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/elechio_idle"
+    ]
+  },
+  "mob.lucksley_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/lucksley_idle"
+    ]
+  },
+  "mob.oscure_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/oscure_idle"
+    ]
+  },
+  "mob.arcaroda_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/arcaroda_idle"
+    ]
+  },
+  "mob.arcaroda_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/arcaroda_skill"
+    ]
+  },
+  "mob.baltatops_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/baltatops_idle"
+    ]
+  },
+  "mob.baltatops_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/baltatops_skill"
+    ]
+  },
+  "mob.crotan_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/crotan_idle"
+    ]
+  },
+  "mob.crotan_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/crotan_skill"
+    ]
+  },
+  "mob.kizar_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/kizar_idle"
+    ]
+  },
+  "mob.kizar_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/kizar_skill"
+    ]
+  },
+  "mob.infernos_fire": {
+    "category": "master",
+    "sounds": [
+      "mob/infernos_fire"
+    ]
+  },
+  "mob.infernos_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/infernos_idle"
+    ]
+  },
+  "mob.infernos_skill1": {
+    "category": "master",
+    "sounds": [
+      "mob/infernos_skill1"
+    ]
+  },
+  "mob.infernos_skill2": {
+    "category": "master",
+    "sounds": [
+      "mob/infernos_skill2"
+    ]
+  },
+  "mob.icedragon_death": {
+    "category": "master",
+    "sounds": [
+      "mob/icedragon_death"
+    ]
+  },
+  "mob.icedragon_idle1": {
+    "category": "master",
+    "sounds": [
+      "mob/icedragon_idle1"
+    ]
+  },
+  "mob.icedragon_idle2": {
+    "category": "master",
+    "sounds": [
+      "mob/icedragon_idle2"
+    ]
+  },
+  "mob.icedragon_roar1": {
+    "category": "master",
+    "sounds": [
+      "mob/icedragon_roar1"
+    ]
+  },
+  "mob.hydra_growl": {
+    "category": "master",
+    "sounds": [
+      "mob/hydra_growl1",
+	  "mob/hydra_growl2"
+    ]
+  },
+  "mob.hydra_roar": {
+    "category": "master",
+    "sounds": [
+      "mob/hydra_roar1",
+	  "mob/hydra_roar2"
+    ]
+  },
+  "mob.firedragon_growl": {
+    "category": "master",
+    "sounds": [
+      "mob/firedragon_growl1",
+	  "mob/firedragon_growl2"
+    ]
+  },
+  "mob.firedragon_roar": {
+    "category": "master",
+    "sounds": [
+      "mob/firedragon_roar1",
+	  "mob/firedragon_roar2"
+    ]
+  },
+  "mob.icedragon_roar2": {
+    "category": "master",
+    "sounds": [
+      "mob/icedragon_roar2"
+    ]
+  },
+  "mob.raptor_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/raptor_idle"
+    ]
+  },
+  "mob.raptor_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/raptor_skill"
+    ]
+  },
+  "mob.plantorilla_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/plantorilla_idle"
+    ]
+  },
+  "mob.plantorilla_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/plantorilla_skill"
+    ]
+  },
+  "mob.soleon_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/soleon_idle"
+    ]
+  },
+  "mob.soleon_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/soleon_skill"
+    ]
+  },
+  "mob.tyragnum_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/tyragnum_idle"
+    ]
+  },
+  "mob.tyragnum_roar": {
+    "category": "master",
+    "sounds": [
+      "mob/tyragnum_roar"
+    ]
+  },
+  "mob.tyragnum_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/tyragnum_skill"
+    ]
+  },
+  "mob.ardenia_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/ardenia_skill"
+    ]
+  },
+  "mob.ardenia_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/ardenia_idle"
+    ]
+  },
+  "mob.yeti_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/yeti_idle"
+    ]
+  },
+  "mob.yeti_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/yeti_skill"
+    ]
+  },
+  "mob.zablogle_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/zablogle_idle"
+    ]
+  },
+  "mob.velnus_lion_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/velnus_lion_skill"
+    ]
+  },
+  "mob.velnus_lion_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/velnus_lion_idle"
+    ]
+  },
+  "mob.pegasus_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/pegasus_skill"
+    ]
+  },
+  "mob.pegasus_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/pegasus_idle"
+    ]
+  },
+  "mob.minotaur_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/minotaur_skill"
+    ]
+  },
+  "mob.minotaur_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/minotaur_idle"
+    ]
+  },
+  "mob.king_barta_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/king_barta_skill"
+    ]
+  },
+  "mob.king_barta_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/king_barta_idle"
+    ]
+  },
+  "mob.ice_elemental_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/ice_elemental_skill"
+    ]
+  },
+  "mob.ice_elemental_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/ice_elemental_idle"
+    ]
+  },
+  "mob.fire_elemental_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/fire_elemental_idle"
+    ]
+  },
+  "mob.eldina_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/eldina_idle"
+    ]
+  },
+  "mob.dark_knight_swordinground": {
+    "category": "master",
+    "sounds": [
+      "mob/dark_knight_swordinground"
+    ]
+  },
+  "mob.dark_knight_sword2": {
+    "category": "master",
+    "sounds": [
+      "mob/dark_knight_sword2"
+    ]
+  },
+  "mob.dark_knight_sword1": {
+    "category": "master",
+    "sounds": [
+      "mob/dark_knight_sword1"
+    ]
+  },
+  "mob.chimera_snake": {
+    "category": "master",
+    "sounds": [
+      "mob/chimera_snake"
+    ]
+  },
+  "mob.chimera_lion": {
+    "category": "master",
+    "sounds": [
+      "mob/chimera_lion"
+    ]
+  },
+  "mob.chimera_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/chimera_idle"
+    ]
+  },
+  "mob.cerberus_skill": {
+    "category": "master",
+    "sounds": [
+      "mob/cerberus_skill"
+    ]
+  },
+  "mob.cerberus_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/cerberus_idle"
+    ]
+  },
+  "mob.ardenia_pierce": {
+    "category": "master",
+    "sounds": [
+      "mob/ardenia_pierce"
+    ]
+  },
+  "mob.ardenia_slash2": {
+    "category": "master",
+    "sounds": [
+      "mob/ardenia_slash2"
+    ]
+  },
+  "mob.ardenia_slash1": {
+    "category": "master",
+    "sounds": [
+      "mob/ardenia_slash1"
+    ]
+  },
+  "mob.gardo_idle": {
+    "category": "master",
+    "sounds": [
+      "mob/gardo_idle"
+    ]
+  }
+}
