@@ -5,6 +5,7 @@
     },	
 	"overrides": [
 		{"predicate": {"custom_model_data":15300}, "model": "hogu_model/chair_1"},
+		{"predicate": {"custom_model_data":15300}, "model": "hogu_model/chair_2"},
 		{"predicate": {"custom_model_data":30300}, "model": "hogu_model/barrel_1"}
 	]
 }
